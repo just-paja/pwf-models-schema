@@ -1,0 +1,18 @@
+{
+	"name":"pwf-models-schema",
+	"main":"lib/include.js",
+	"ignore":[
+		"test",
+		"LICENSE",
+		"README.md",
+		".gitignore",
+		"node_modules"
+	],
+	"dependencies":{
+		"pwf-models":"*",
+		"pwf-async-compat":"*"
+	},
+	"devDependencies":{
+		"jquery":"<2.0"
+	}
+}

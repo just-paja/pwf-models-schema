@@ -1,0 +1,23 @@
+{
+	"name":"pwf-models-schema",
+	"version":"0.1.0",
+	"description":"Schema manager for pwf models",
+	"author":"just-paja <just-paja@gmail.com>",
+	"license":"GPLv3",
+	"main":"./lib/include.js",
+	"dependencies":{
+		"pwf-models":"*",
+		"pwf-async-compat":"*"
+	},
+	"devDependencies":{
+		"pwf.js":"*"
+	},
+	"license":"GPLv3",
+	"scripts":{
+		"test":"echo Running tests... && mocha --globals testRule"
+	},
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/just-paja/pwf-models-schema.git"
+	}
+}
