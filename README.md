@@ -28,7 +28,7 @@ bower install pwf-models-schema
 ```
 
 # Usage
-Schema very few methods.
+Schema very few methods. For example of server API to serve models, see [fudjan-api](https://github.com/just-paja/fudjan-api)
 
 ## Methods
 ### is_ready()
