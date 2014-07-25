@@ -21,7 +21,7 @@
 		"url":"https://github.com/just-paja/pwf-models-schema.git"
 	},
 
-	"files":[
+	"include":[
 		"lib/schema",
 		"lib/preloader/schema"
 	]
