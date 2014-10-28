@@ -8,7 +8,7 @@
 		"node_modules"
 	],
 	"dependencies":{
-		"pwf-models":"*",
+		"pwf-models":">=0.6",
 		"pwf-async-compat":"*"
 	},
 	"devDependencies":{

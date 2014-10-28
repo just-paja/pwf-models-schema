@@ -6,7 +6,7 @@
 	"license":"GPLv3",
 	"main":"./lib/include.js",
 	"dependencies":{
-		"pwf-models":"*",
+		"pwf-models":">=0.6",
 		"pwf-async-compat":"*"
 	},
 	"devDependencies":{
