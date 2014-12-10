@@ -23,6 +23,7 @@
 
 	"include":[
 		"lib/schema",
-		"lib/preloader/schema"
+		"lib/preloader/schema",
+		"lib/preloader/schema_package"
 	]
 }
