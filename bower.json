@@ -8,8 +8,8 @@
 		"node_modules"
 	],
 	"dependencies":{
-		"pwf-models":">=0.6",
-		"pwf-async-compat":">=0.2",
-		"pwf.js":">=1.8"
+		"pwf-models":"^0.6",
+		"pwf-async-compat":"^0.2",
+		"pwf.js":"^1.8"
 	}
 }
