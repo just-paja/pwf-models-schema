@@ -1,6 +1,6 @@
 {
 	"name":"pwf-models-schema",
-	"version":"0.4.2",
+	"version":"1.0.0",
 	"description":"Schema manager for pwf models",
 	"author":"just-paja <just-paja@gmail.com>",
 	"license":"GPLv3",
