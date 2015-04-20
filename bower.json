@@ -9,7 +9,7 @@
 	],
 	"dependencies":{
 		"pwf-models":"^0.6.3",
-		"pwf-async-compat":"^0.2",
+		"pwf-async-compat":"^1.0",
 		"pwf.js":"^1.8"
 	}
 }
