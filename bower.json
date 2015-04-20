@@ -1,5 +1,6 @@
 {
 	"name":"pwf-models-schema",
+
 	"ignore":[
 		"test",
 		"LICENSE",
@@ -7,9 +8,16 @@
 		".gitignore",
 		"node_modules"
 	],
+
 	"dependencies":{
 		"pwf-models":"^0.6.3",
 		"pwf-async-compat":"^1.0",
 		"pwf.js":"^1.8"
-	}
+	},
+
+	"main":[
+		"lib/schema.js",
+		"lib/preloader/schema.js",
+		"lib/preloader/schema_package.js"
+	]
 }
