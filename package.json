@@ -3,7 +3,7 @@
 	"version":"1.0.0",
 	"description":"Schema manager for pwf models",
 	"author":"just-paja <just-paja@gmail.com>",
-	"license":"GPLv3",
+	"license":"GPL-3.0",
 	"main":"./lib/include.js",
 	"dependencies":{
 		"pwf-models":"^0.6.3",
@@ -15,7 +15,6 @@
 		"jsdom":"^1.5"
 	},
 
-	"license":"GPLv3",
 	"scripts":{
 		"test":"echo Running tests... && mocha --globals testRule"
 	},
